@@ -1,0 +1,10 @@
+# Allow all bots to crawl the site
+User-agent: *
+Allow: /
+
+# Disallow crawling of API routes
+User-agent: *
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://landing-page-drive-in.vercel.app/sitemap.xml
