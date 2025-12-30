@@ -14,9 +14,13 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Drive-in - Kursus Mengemudi Terpercaya",
-  description: "Kursus mengemudi terpercaya dengan instruktur berpengalaman. Raih SIM Anda dengan mudah dan aman bersama Drive-in.",
+  description:
+    "Kursus mengemudi terpercaya dengan instruktur berpengalaman. Raih SIM Anda dengan mudah dan aman bersama Drive-in.",
   icons: {
     icon: "/favicon.png",
+  },
+  other: {
+    "facebook-domain-verification": "1zpv9dhucdmiou4g431y8cso4ronqe",
   },
 };
 
